@@ -1,0 +1,7 @@
+id=screenshot_rotate_fix
+name=截图自动旋转修复
+version=v3.0
+versionCode=3
+author=yetiannb
+description=【模式1:自动检测】发现新截图自动旋转 | 执行Action查看详情/手动处理/切换模式
+updateJson=https://raw.githubusercontent.com/yetiannb/CD20MAX-Screenshot-Rotate/main/update.json
