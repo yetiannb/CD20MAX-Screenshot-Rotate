@@ -1,0 +1,2 @@
+# CD20MAX-Screenshot-Rotate
+修复CD20MAX手表DotOS系统截图翻转180度的Magisk模块
